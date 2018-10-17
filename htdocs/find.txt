@@ -1,0 +1,15 @@
+/Users/a00906543/Desktop/Current
+/Users/a00906543/Desktop/Current/finalexam
+/Users/a00906543/Desktop/Current/htdocs
+/Users/a00906543/Desktop/Current/htdocs/index.html
+/Users/a00906543/Desktop/Current/htdocs/bottom.html
+/Users/a00906543/Desktop/Current/htdocs/img
+/Users/a00906543/Desktop/Current/htdocs/img/img.txt
+/Users/a00906543/Desktop/Current/htdocs/scripts
+/Users/a00906543/Desktop/Current/htdocs/scripts/css
+/Users/a00906543/Desktop/Current/htdocs/scripts/css/style.css
+/Users/a00906543/Desktop/Current/htdocs/scripts/js
+/Users/a00906543/Desktop/Current/htdocs/scripts/js/myjs.js
+/Users/a00906543/Desktop/Current/htdocs/scripts/js/jq.js
+/Users/a00906543/Desktop/Current/htdocs/head.html
+/Users/a00906543/Desktop/Current/htdocs/find.txt
